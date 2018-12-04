@@ -186,13 +186,13 @@
 
 
 
-![prompt1_800x400](/Users/zxh/me/gitlab/book4kids/draft/figures/ch04/prompt1_800x400.png)
+![prompt1_800x400](figures/ch04/prompt1_800x400.png)
 
 ​			（图4-11 调用`prompt()`函数）
 
 
 
-![prompt2_800x400](/Users/zxh/me/gitlab/book4kids/draft/figures/ch04/prompt2_800x400.png)
+![prompt2_800x400](figures/ch04/prompt2_800x400.png)
 
 ​			（图4-12 `prompt()`函数返回值）
 
