@@ -9,3 +9,7 @@
 * 第7课 [循环](draft/c07_loop.md)
 * ...
 
+
+
+卡通插图由[floreal](https://github.com/floreal1983)创作 ：）
+
