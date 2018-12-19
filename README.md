@@ -1,5 +1,9 @@
 # 和孩子一起学编程
 
+![logo800x450](logo800x450.jpg)
+
+
+
 * 第1课 [了解计算机](draft/c01_intro.md)
 * 第2课 [成为小程序员](draft/c02_hw.md)
 * 第3课 [数字和算术运算](draft/c03_arith.md)
